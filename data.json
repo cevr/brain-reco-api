@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "test",
+            "email": "test@test.com",
+            "password": "test",
+            "entries": 0,
+            "joined": "2018-03-05T03:07:24.223Z"
+        }
+    ]
+}
